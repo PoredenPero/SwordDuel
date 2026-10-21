@@ -1,3 +1,5 @@
+// Onemogoceno: Toon Shader 0.11.0-preview se ne prevede v Unity 6.6.7
+#if false
 using UnityEditor;
 using UnityEditor.PackageManager;
 using UnityEditor.PackageManager.Requests;
@@ -59,3 +61,4 @@ namespace EEjanaiTeam
     }
 
 }
+#endif
